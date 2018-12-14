@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8dab3e</color>
+    <color name="colorPrimaryDark">#8dab3e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_selector">#639c2d</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_tab_title">#777777</color>
+    <color name="color_head_title">#AAAAAA</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_bg">#aadfe7d9</color>
+    <color name="color_lv_selector">#aaeeeeee</color>
+    <color name="white">#aafafaf5</color>
+    <color name="gainsboro">#daefd9</color>
+    <color name="bg_color">#f1f1f1</color>
+    <color name="gray">#808080</color>
+    <color name="slateblue">#6a5acd</color>
+
+    <color name="white_color_disable">#7fffffff</color>
+
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="tab_background">#c0efefcc</color>
+    <color name="result_view">#b0000000</color>
+    <color name="backColor">#2000</color>
+    <color name="limit_buy_border_bg">#ffd4bc77</color>
+    <color name="green_btn_color_pressed">#ff298409</color>
+    <color name="red_btn_color_normal">#ffff5454</color>
+    <color name="red_btn_color_pressed">#ffd24242</color>
+    <color name="red_btn_color_disable">#7fff5454</color>
+</resources>
